@@ -1,0 +1,31 @@
+body {
+    background-image: url("../assets/green.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.buttonContainer {
+    margin-top: 15%;
+}
+
+.incrementButton {
+    background-color: cyan;
+    margin-right: 3%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    padding: 5px 20px;
+}
+
+.decrementButton {
+    background-color: bisque;
+    margin-left: 3%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    padding: 5px 20px;
+}
+
+.countValue {
+    font-family:'Russo One';
+    font-size: 35px;
+    color:darkred;
+}
